@@ -1,12 +1,12 @@
 # DevOps Practices Showcase – Software Engineering Methods Course
 
-![CI Build](https://github.com/mjagec/devops/actions/workflows/ci.yml/badge.svg)
-![Unit Tests](https://github.com/mjagec/devops/actions/workflows/tests.yml/badge.svg)
-![Docker Build](https://github.com/mjagec/devops/actions/workflows/docker.yml/badge.svg)
-![Code Coverage](https://codecov.io/gh/mjagec/devops/branch/main/graph/badge.svg?token=XXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/antnyyy/devops/main.yml)
+[![Releases](https://img.shields.io/github/release/antnyyy/devops/all.svg?style=flat-square)](https://github.com/antnyyy/devops/releases)
 
-A university group project demonstrating core **DevOps principles** through a Java-based full-stack web application. Developed as part of the Software Engineering Methods course, this repository implements CI/CD pipelines, containerization, automated testing, and build automation to model production-ready workflows.
+
+
+A university group project demonstrating core **DevOps principles** through a Java-based SQL console application. Developed as part of the Software Engineering Methods course, this repository implements CI/CD pipelines, containerization, automated testing, and build automation to model production-ready workflows.
 
 ## 🚀 Key DevOps Practices Implemented
 
@@ -29,7 +29,8 @@ A university group project demonstrating core **DevOps principles** through a Ja
 **Build Tools** – Maven, Shell  
 
 ## 📊 Current Coverage
-![coverage](https://codecov.io/gh/mjagec/devops/branch/main/graph/badge.svg?token=XXXXXX)
+[![codecov](https://codecov.io/gh/antnyyy/devops/branch/main/graph/badge.svg)](https://codecov.io/gh/antnyyy/devops) <br>
+[![Coverage Sunburst](https://codecov.io/gh/antnyyy/devops/branch/main/graphs/sunburst.svg)](https://codecov.io/gh/antnyyy/devops)
 
 We target >80% test coverage on the Java backend, tracked via continuous Codecov integration.
 
